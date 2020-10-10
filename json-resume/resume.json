@@ -1,0 +1,127 @@
+{
+  "basics": {
+    "name": "Lucas Sandoz",
+    "label": "Fullstack Developer",
+    "email": "sandozlucas@outlook.com",
+    "phone": "(549) 3413145243",
+    "website": "",
+    "summary": "Electronic engineer enamored with software development, always looking to learn new things. Right now I'm looking to the next challenge in professional career in a place that has great team work and develops interesting applications in the latest top notch technology.",
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "AraragiRukasu",
+        "url": ""
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Lucas Sandoz",
+        "url": "https://github.com/AraragiRukasu"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "PwC",
+      "position": "Senior Developer",
+      "startDate": "2018-07-23",
+      "summary": "PwC is one of the big four in finances and lately it's trying to have a technology stack to unlock a new level of business for the company. AI modeling, web development, communication backbones and much more. My role changed with time, from fullstack development with basic requeriments to taking part of the design of critical implementations with many types of technologies combined together to achiveve the best product for the client needs.",
+      "highlights": [
+        "Requirement taking and implementation detailing",
+        "Implementing performant DB structures for big data requirements",
+        "Backend development having always the utmost memory efficent and performant implementation requirements",
+        "Page rebranding and compatible frontend development",
+        "Complex application design",
+        "Inner teamwork experience to deliver the best possible solution having different ideas on the table",
+        "Communication to third parties to design and integrate our application with the rest of the process",
+        "New joiners entrance interviewing and guidance"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Nacional de Rosario",
+      "area": "Electronics Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2013-03-01",
+      "endDate": "2019-06-25",
+      "gpa": "8.67/10"
+    }
+  ],
+  "skills": [
+    {
+      "name": "FrontEnd Development",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Sass",
+        "Less",
+        "ECMA 2016",
+        "jQuery",
+        "React",
+        "Angular"
+      ]
+    },
+    {
+      "name": "BackEnd/Cloud Development",
+      "keywords": [
+        "C#",
+        ".Net Framework",
+        ".Net Core",
+        "REST API",
+        "Entity Framework",
+        "Dapper",
+        "Azure portal",
+        "Azure Functions",
+        "RabbitMQ",
+        "Kafka",
+        "Azure Service Bus"
+      ]
+    },
+    {
+      "name": "Database Development",
+      "keywords": [
+        "SQL",
+        "Stored Procedures",
+        "Views",
+        "Normalized design"
+      ]
+    },
+    {
+      "name": "Organizational/Development workflow",
+      "keywords": [
+        "Agile",
+        "Azure DevOps",
+        "Git",
+        "TFVC",
+        "Kanban",
+        "Github flow"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Business Level"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [
+    {
+      "keywords": [
+        "Mechanical keyboards",
+        "Gaming",
+        "Anime",
+        "Manga",
+        "Novels",
+        "Cooking"
+      ]
+    }
+  ]
+}
